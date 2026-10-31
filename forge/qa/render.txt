@@ -1,0 +1,3 @@
+저장: .claude/skills/learn-pdm-lite-jyp/assets/answers/preview.png (모바일: .claude/skills/learn-pdm-lite-jyp/assets/answers/preview_mobile.png)
+콘솔 오류 0건
+모바일 폭 scrollWidth = 390 (390 이하면 가로 스크롤 없음)

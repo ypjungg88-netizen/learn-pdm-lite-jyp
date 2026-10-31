@@ -1,0 +1,6 @@
+env_check.txt
+pdm-lite-work/
+__pycache__/
+.DS_Store
+Thumbs.db
+*.zip

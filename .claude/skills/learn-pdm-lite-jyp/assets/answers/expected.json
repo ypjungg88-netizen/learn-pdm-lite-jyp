@@ -1,0 +1,19 @@
+{
+ "values": {
+  "a_outlier": {
+   "value": "12:40 3.5",
+   "decimals": null,
+   "block": 1
+  },
+  "b_outliers": {
+   "value": "15:40 2.2 · 16:00 2.9",
+   "decimals": null,
+   "block": 1
+  },
+  "trend_start": {
+   "value": "13:00",
+   "decimals": null,
+   "block": 1
+  }
+ }
+}

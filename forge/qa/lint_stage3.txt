@@ -1,0 +1,8 @@
+learn-pdm-lite-jyp: 블록 3개 · 퀴즈 1문항
+오류 2건 · 경고 2건
+  [오류] .claude\skills\learn-pdm-lite-jyp\references\block2-publish.md: QUIZ에 AskUserQuestion 문항 없음
+  [오류] .claude\skills\learn-pdm-lite-jyp\references\block2-publish.md: QUIZ에 정답·해설 없음
+  [경고] .claude\skills\learn-pdm-lite-jyp\references\block1-noise-vs-trend.md: 수치 자리표시자 남음 ['{{expected:a_outlier}}', '{{expected:b_outliers}}', '{{expected:trend_start}}'] (4단계에서 채움)
+  [경고] .claude\skills\learn-pdm-lite-jyp\references\block2-publish.md: 수치 자리표시자 남음 ['{{expected:trend_start}}'] (4단계에서 채움)
+
+[판정] block2 QUIZ 오류 2건은 사용자 지정("퀴즈는 B1에 1문항만")에 따른 의도된 예외. 린트는 Block 0만 퀴즈 면제로 본다.
